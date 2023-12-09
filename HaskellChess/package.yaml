@@ -36,7 +36,7 @@ executables:
     dependencies:
     - HaskellChess
     - gloss==1.13.2.1
-    - containers==0.6.4.1
+    - containers==0.6.5.1
 
 tests:
   HaskellChess-test:
